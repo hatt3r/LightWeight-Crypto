@@ -39,7 +39,3 @@ python3 CPUProfile.py
 some of the files have to import modules from the folder or pip installing them
 
 we also have attached the technical report for this project
-
-## Contributors
-- Serene Mathew - B00177451
-- Shamil Yazeen - B00177246
